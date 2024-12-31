@@ -1,11 +1,6 @@
 /* Estilos generales */
 body {
     margin: 0;
-    .poppins-medium {
-  font-family: "Poppins", serif;
-  font-weight: 500;
-  font-style: normal;
-}
     font-family: 'Poppins', Arial, sans-serif;
     background-color: #f9f9f9;
 }
