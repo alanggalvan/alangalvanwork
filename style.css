@@ -1,3 +1,23 @@
+/* Fuentes de la web */
+@font-face {
+    font-family: 'Poppins-Thin';
+    src: url('fonts/Poppins-thin.ttf') format('ttf');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-Regular';
+    src: url('fonts/Poppins-Regular.ttf') format('ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Usar la fuente en el cuerpo */
+body {
+    font-family: 'Poppins', Arial, sans-serif;
+}
+
 /* Estilos generales */
 body {
     margin: 0;
