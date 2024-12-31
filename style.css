@@ -1,7 +1,7 @@
 /* Fuentes de la web */
 @font-face {
     font-family: 'Poppins-Thin';
-    src: url("../fonts/Poppins-thin.ttf") format('ttf');
+    src: url("../Poppins/Poppins-thin.ttf") format('ttf');
     font-weight: 100;
     font-style: normal;
 }
