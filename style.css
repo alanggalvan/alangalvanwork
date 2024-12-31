@@ -1,8 +1,12 @@
 /* Estilos generales */
 body {
     margin: 0;
-    font-family: 'Poppins';
+    font-family: 'Poppins', serif;
     background-color: #f9f9f9;
+    .poppins-thin {
+  font-family: "Poppins", serif;
+  font-weight: 100;
+  font-style: normal;
 }
 
 /* Estilo de la barra de navegación */
